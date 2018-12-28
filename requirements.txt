@@ -1,0 +1,8 @@
+# 01. Parse
+requests==2.21.0
+beautifulsoup4==4.6.3
+
+# 02. CLI Support
+prompt-toolkit==1.0.14
+PyInquirer==1.0.3
+tqdm==4.28.1
